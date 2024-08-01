@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FireEffect
+  - Enemy
+  - Plant
+  - Hut
+  - Farm
+  - HealField
+  - HealDummy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Field
+  - Hut
+  - EnemyDamageZone
+  - Plant
+  - HealField
+  - Bullet
+  - Farm
+  - HealDummy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Huts
+    uniqueID: 1270697613
+    locked: 0
+  - name: Bottom
+    uniqueID: 3388016105
+    locked: 0
+  - name: Top
+    uniqueID: 1860871355
+    locked: 0
+  - name: Plants and Enemies
+    uniqueID: 3612305037
+    locked: 0
+  - name: MoneyEffect
+    uniqueID: 421996145
+    locked: 0
+  - name: Effects
+    uniqueID: 605157449
+    locked: 0
+  - name: Ui
+    uniqueID: 411607997
+    locked: 0
